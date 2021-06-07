@@ -1,0 +1,97 @@
+stop
+pacjenci
+wizyty
+pacjenta
+lekarze
+id pacjenta
+nazwisko
+imie
+pesel
+data urodzenia
+lekarz
+pacjent
+koszt
+data wizyty
+id lekarza
+specjalnosc
+nip
+nazwa własna
+wybierz
+zaznacz
+podaj
+zwróć
+wszystkie
+wszystko
+unikalne
+wyjątkowe
+pierwsze
+górne
+początkowe
+procent
+kropka
+minimum
+maksimum
+policz
+oblicz
+ilość
+średnia
+średnią
+suma
+zsumuj
+sumę
+z tabeli
+z bazy danych
+tam
+gdzie
+oraz
+lub
+albo
+nieprawda że
+nie jest
+jest
+równa
+równe
+równy
+większa
+większe
+niż
+mniejsza
+mniejsze
+większa
+większe
+bądź
+równa
+równe
+różne
+od
+rozpocznij
+zacznij
+stwórz
+zakończ
+zamknij
+podzapytanie
+posortuj
+po
+uporządkuj
+ułóż
+kolejności
+rosnąco
+malejąco
+mające
+mający
+posiadając
+posiadające
+pogrupuj
+połączenie
+złączenie
+na
+wewnętrzne
+lewostronnie
+prawostronne
+całkowite
+bez
+brak
+nie
+ma
+wartości
+w
