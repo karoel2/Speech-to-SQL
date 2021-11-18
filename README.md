@@ -1,6 +1,6 @@
 # Speech-to-SQL
 
-The goal of this project was to use a natural language processing toolkit to pass the SQL exam from my university. 
+The goal of this project was to use a natural language toolkit to pass the SQL exam from my university. 
 
 I am using Google Cloud speech-to-text for <b> POLISH </b> language with a boost for specific phrases. It makes conversion from text to SQL query easier.
 Then I use PLY lex to process words in natural language to SQL keywords, tables and column names (currently only hardcoded). Software is capable of handling logic, numbers and invented names. For advanced uses, it can also handle nested subqueries and joins. An output SQL query is in the correct syntax to copy-paste to  MySQL.
